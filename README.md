@@ -7,9 +7,11 @@ Objects used in this project :
 
 ## Schematic
 
+![](https://github.com/lrhm/AVR-Square-Wave-Generation-and-Touch-Screen/raw/master/Screenshot%20from%202016-09-24%2001-00-40.png)
 
 ## How it looks like
+![](https://github.com/lrhm/AVR-Square-Wave-Generation-and-Touch-Screen/blob/master/Screenshot%20from%202016-09-24%2001-00-59.png?raw=true)
 
+![](https://github.com/lrhm/AVR-Square-Wave-Generation-and-Touch-Screen/blob/master/Screenshot%20from%202016-09-24%2001-00-23.png?raw=true)
 
-
-A PDF Presentation of this project in farsi is in this repository as well. 
+A PDF Presentation of this project in farsi is in this repository as well.
